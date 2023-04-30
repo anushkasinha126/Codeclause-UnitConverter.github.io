@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     background-image: linear-gradient(rgb(173, 27, 11) 20%, rgb(14, 65, 100)60%);
+    backfround-repeat: no-repeat;
     overflow: hidden;
     top: 0%;
     bottom: 0%;
